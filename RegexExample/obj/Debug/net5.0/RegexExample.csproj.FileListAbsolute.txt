@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.deps.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.runtimeconfig.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.runtimeconfig.dev.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\bin\Debug\net5.0\RegexExample.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.AssemblyInfoInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.AssemblyInfo.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\refint\RegexExample.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\RegexExample.genruntimeconfig.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\obj\Debug\net5.0\ref\RegexExample.dll
