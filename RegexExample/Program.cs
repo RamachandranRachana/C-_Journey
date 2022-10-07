@@ -7,7 +7,7 @@ namespace RegexExample
     {
         static void Main(string[] args)
         {
-            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\racha\Documents\GitHub\CSharp-Journey\input.txt");
+            string[] lines = System.IO.File.ReadAllLines(@"C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\input\input.txt");
             foreach (string l in lines)
             {
                 if (l.Contains("split"))
@@ -20,7 +20,7 @@ namespace RegexExample
             string pattern = @"\d{2,3}";
             Regex regex = new Regex(pattern);
 
-            string[] lines2 = System.IO.File.ReadAllLines(@"C:\Users\racha\Documents\GitHub\CSharp-Journey\input2.txt");
+            string[] lines2 = System.IO.File.ReadAllLines(@"C:\Users\racha\Documents\GitHub\CSharp-Journey\RegexExample\input\input2.txt");
             foreach (string l in lines2)
             {
                 MatchCollection matches = regex.Matches(l);
