@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.deps.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.runtimeconfig.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.runtimeconfig.dev.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\bin\Debug\net5.0\DaysSinceBirth.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.AssemblyInfoInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.AssemblyInfo.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\refint\DaysSinceBirth.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\DaysSinceBirth.genruntimeconfig.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DaysSinceBirth\obj\Debug\net5.0\ref\DaysSinceBirth.dll
