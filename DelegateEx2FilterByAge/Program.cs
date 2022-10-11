@@ -18,6 +18,14 @@ namespace DelegateEx2FilterByAge
 
             DisplayPeople("In Twenties", list, IsInTwenties);
             DisplayPeople("In Thirties", list, IsInThirties);
+
+            //Anonymous methods
+            FilterDelegate filterAboveThirtyFive = delegate (Person p)
+            {
+                return p.Age > 35;
+            };
+            DisplayPeople("Above Thirty Five", list, filterAboveThirtyFive);
+            DisplayPeople("All", list, delegate(Person p) { return true; });
         }
 
         static void DisplayPeople(string title,List<Person> people,FilterDelegate filter)
