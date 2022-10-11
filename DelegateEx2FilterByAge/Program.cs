@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 namespace DelegateEx2FilterByAge
 {
@@ -26,6 +27,19 @@ namespace DelegateEx2FilterByAge
             };
             DisplayPeople("Above Thirty Five", list, filterAboveThirtyFive);
             DisplayPeople("All", list, delegate(Person p) { return true; });
+
+            //Lamda Expression
+
+            //Statement Lamda
+            string pattern = @"^Ra";
+            DisplayPeople("Above 20 and Name begins with Ra", list, people =>
+            {
+                Regex regex = new Regex(pattern);
+                return regex.IsMatch(people.Name) && people.Age > 20;
+            });
+
+            //Expression Lamda
+            DisplayPeople("Is Exactly 29",list, people => people.Age==29);
         }
 
         static void DisplayPeople(string title,List<Person> people,FilterDelegate filter)
