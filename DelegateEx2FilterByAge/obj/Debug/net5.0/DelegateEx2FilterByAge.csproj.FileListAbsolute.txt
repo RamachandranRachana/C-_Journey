@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.deps.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.runtimeconfig.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.runtimeconfig.dev.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\bin\Debug\net5.0\DelegateEx2FilterByAge.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.AssemblyInfoInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.AssemblyInfo.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\refint\DelegateEx2FilterByAge.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\DelegateEx2FilterByAge.genruntimeconfig.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx2FilterByAge\obj\Debug\net5.0\ref\DelegateEx2FilterByAge.dll

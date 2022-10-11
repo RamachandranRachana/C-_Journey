@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DelegateEx2FilterByAge/1.0.0": {
+        "runtime": {
+          "DelegateEx2FilterByAge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegateEx2FilterByAge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
