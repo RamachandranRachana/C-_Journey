@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.deps.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.runtimeconfig.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.runtimeconfig.dev.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\bin\Debug\net5.0\DelegateEx1RemoveNameFromList.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.AssemblyInfoInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.AssemblyInfo.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\refint\DelegateEx1RemoveNameFromList.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\DelegateEx1RemoveNameFromList.genruntimeconfig.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\DelegateEx1RemoveNameFromList\obj\Debug\net5.0\ref\DelegateEx1RemoveNameFromList.dll
