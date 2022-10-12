@@ -66,7 +66,7 @@ namespace MultiCastDelegate
     {
         public delegate void ReportDelegate();
 
-        public static ReportDelegate ReportInfo;
+        public static event ReportDelegate ReportInfo;
 
         public static void PublishReport()
         {
