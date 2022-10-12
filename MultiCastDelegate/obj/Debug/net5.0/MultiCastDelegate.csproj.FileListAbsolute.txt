@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.deps.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.runtimeconfig.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.runtimeconfig.dev.json
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\bin\Debug\net5.0\MultiCastDelegate.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.AssemblyInfo.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\refint\MultiCastDelegate.dll
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\MultiCastDelegate.genruntimeconfig.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\MultiCastDelegate\obj\Debug\net5.0\ref\MultiCastDelegate.dll
