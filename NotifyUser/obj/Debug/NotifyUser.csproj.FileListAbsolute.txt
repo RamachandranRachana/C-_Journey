@@ -1,0 +1,16 @@
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\bin\Debug\NotifyUser.exe.config
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\bin\Debug\NotifyUser.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\bin\Debug\NotifyUser.pdb
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.csproj.AssemblyReference.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.csproj.SuggestedBindingRedirects.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\MainWindow.g.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\App.g.cs
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser_MarkupCompile.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser_MarkupCompile.lref
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\MainWindow.baml
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.g.resources
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.Properties.Resources.resources
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.csproj.GenerateResource.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.csproj.CoreCompileInputs.cache
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.exe
+C:\Users\racha\Documents\GitHub\CSharp-Journey\NotifyUser\obj\Debug\NotifyUser.pdb
